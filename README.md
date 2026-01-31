@@ -1,2 +1,3 @@
 # hw-test
-Week 1 homework DACSS 690V
+
+[link to dashboard](https://dataviz690.github.io/hw-test/)
